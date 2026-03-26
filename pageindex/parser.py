@@ -19,7 +19,7 @@ Text:
     response = client.chat.completions.create(
         model="gpt-5.4",
         messages=[{"role": "user", "content": prompt}],
-        max_tokens=3000,
+        max_completion_tokens=3000,
         response_format={"type": "json_object"},
     )
     parsed = json.loads(response.choices[0].message.content)
